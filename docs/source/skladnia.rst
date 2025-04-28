@@ -25,7 +25,7 @@ Akapit tekstowy andkjsandkjna
    notatka
 
 .. tip::
-   poradka
+   wskazówka
 - Fragment kodu (liniowy, blokowy)
 
 ``liniowy``
@@ -56,10 +56,10 @@ Pojecie 2:
 
 - Obraz (z alternatywnym tekstem oraz podpisem)
 
-.. figure:: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets-prd.ignimgs.com%2F2022%2F04%2F17%2Fwarp-1650208229352.jpg&f=1&nofb=1&ipt=185a47681758f62203b8a835d979c7fc8d6126a6d6f7bb8ce58c57d03869b485&ipo=images
+.. figure:: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwallpapers%2Fcomments%2Fph255u%2Flo_fi_cafe_3840_x_2160%2F&psig=AOvVaw3_n7iF_v_6q_bFmpFYPE6L&ust=1745907056291000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDX3OGI-owDFQAAAAAdAAAAABAR
    :alt: Alternatywny tekst
 
-   Podpis - fajna gra na xbox 360
+   moja tapeta
 
 - Tabela (jeżeli istnieje)
 +------------+--------------+-------------+
